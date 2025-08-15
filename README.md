@@ -1,4 +1,4 @@
-# Identify-and-Remove-Suspicious-Browser-Extensions
+# Working with VPNs
 Research VPN encryption and privacy features?
 Key VPN Encryption and Privacy
 Data Encryption:
